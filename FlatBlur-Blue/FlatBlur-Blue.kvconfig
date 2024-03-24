@@ -149,7 +149,7 @@ inherits=PanelButtonCommand
 frame=false
 interior=false
 text.normal.color=#404040
-text.focus.color=#41a2ffff
+text.focus.color=#ff8541ff
 text.bold=true
 
 [IndicatorSpinBox]
